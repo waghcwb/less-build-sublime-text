@@ -7,13 +7,11 @@
 ## Lets get hands dirty
 1. `Tools > Build System > New Build System...`
 2. Insert the code above on the file:
-
 ```json
 {
     "cmd": ["lessc", "$file", "$file_base_name.css"]
 }
 ```
-
 3. Save it!
 
 ----
