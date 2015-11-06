@@ -1,12 +1,8 @@
-# Creating a Sublime Text build system for Less.
-
-----
+# Creating a build system for Less in Sublime Text .
 
 ## Dependencies
 1. [Less](http://lesscss.org)
 2. [Sublime Text](http://www.sublimetext.com)
-
-----
 
 ## Lets get hands dirty
 1. `Tools > Build System >New Build System...`
