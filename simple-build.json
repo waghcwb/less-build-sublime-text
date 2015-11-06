@@ -1,0 +1,3 @@
+{
+    "cmd": ["lessc", "$file", "$file_base_name.css"]
+}
