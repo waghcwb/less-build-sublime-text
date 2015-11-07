@@ -1,18 +1,18 @@
 # Creating a build system for Less in Sublime Text .
 
 ## Dependencies
-1. [Less](http://lesscss.org)
-2. [Sublime Text](http://www.sublimetext.com)
+* [Less](http://lesscss.org)
+* [Sublime Text](http://www.sublimetext.com)
 
 ## Lets get hands dirty
-1. `Tools > Build System > New Build System...`
-2. Insert the code above on the file:
+* `Tools > Build System > New Build System...`
+* Insert the code above on the file:
 ```json
 {
     "cmd": ["lessc", "$file", "$file_base_name.css"]
 }
 ```
-3. Save it!
+* Save it!
 
 ----
 
