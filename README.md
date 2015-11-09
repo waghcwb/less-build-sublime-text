@@ -16,7 +16,6 @@
 
 ----
 
-Thats it! Do you want more? Okay so... :smirk:
 
 ## Extras
 
